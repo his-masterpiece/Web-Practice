@@ -1,0 +1,12 @@
+h1 {
+    color : #36CFFF;
+}
+
+/*Applying style rules to multiple selectors at a time*/
+h1,h2,h3{
+    color: #36C;
+    font-weight:normal;
+    letter-spacing: .2em;
+    margin-bottom: 1em;
+    text-transform: lowercase;
+}
